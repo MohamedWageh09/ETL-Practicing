@@ -6,7 +6,7 @@ In the final report we need the following information:
 Month Number
 Total Amount for this month 
 
-# Query:
+# The Logic Applied:
 ````sql
 SELECT MONTH(payment_date) as month, sum(amount) as revenue
 from payment
