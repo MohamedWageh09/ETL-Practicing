@@ -1,4 +1,4 @@
-# Requirement 
+# Requirements
 - Load all the employees who works in departments 10 and 20 to the target table (TGTDB)
 - Employees who works in department 30 and 40 should be loaded to a text file
 - The rest should be loaded to a csv file
