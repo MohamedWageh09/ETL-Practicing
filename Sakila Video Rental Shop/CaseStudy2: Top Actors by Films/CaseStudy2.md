@@ -18,6 +18,8 @@ ORDER BY 2 DESC;
 ```
 
 ## Package Creation: 
+Why am i sorting before joining?
+- For better performace i sort the column that i will be joining with in both tables.
 
 <img width="960" alt="image" src="https://github.com/MohamedWageh09/ETL-Practicing/assets/120044385/26c81b09-39aa-4635-812f-df328edd1c9e">
 
